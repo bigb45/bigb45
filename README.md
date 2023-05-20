@@ -16,7 +16,7 @@
 - The desire to be Uncommon among the Uncommon.
 ## Motivation:
 - I'm not motivated, I'm driven.
-# My Mantra:
+## My Mantra:
 "I don't stop when I'm tired, I stop when I'm done."
 
 <!--
