@@ -6,7 +6,7 @@
 - 📫 Reach out to me @ Discord: WizardKestrel#7873
 - ⚡ Fun fact: I like cold showers!
 _____
-### Follow me to see what crazy project I'm working on next! might start developing a Lunar Rover landing software 😛
+### Follow me to see what I'm working on next! might start developing a Lunar Rover landing software 😛
 __________
 # Hobbies:
 - Reading 📚
