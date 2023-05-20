@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Mohammed!
+- 🔭 I’m currently working on changing the world
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on a p2p decentralized communication app
+- 💬 Ask me about my ✨_goals_✨
+- 📫 Reach out to me @ Discord: WizardKestrel#7873
+- ⚡ Fun fact: I like cold showers!
+Follow me to see what I'm working on next! might start developing a Lunar Rover landing software 😛
 <!--
 **bigb45/bigb45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
