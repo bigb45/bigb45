@@ -10,7 +10,7 @@ _____
 __________
 # Hobbies:
 - Reading 📚
-- Lifting 🏋️‍♀️
+- Lifting 🏋️‍♂️
 - Self-discipline
 ___________
 # Inspiration:
