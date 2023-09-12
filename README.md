@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on a p2p decentralized communication app
 - 💬 Ask me about my love for change
-- 📫 Reach out to me @ Discord: WizardKestrel#7873
+- 📫 Reach out to me @ Discord: wizardkestrel
 - ⚡ Fun fact: I like cold showers!
 _____
 ### Follow me to see what I'm working on next! might start developing a Lunar Rover landing software 😛
