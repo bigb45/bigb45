@@ -21,6 +21,6 @@ ___________
 - Pay Day 💵
 
 # My Mantra:
- ## I don't stop when I'm tired, I only stop when I'm done.
+ I don't stop when I'm tired, I only stop when I'm done.
 
 
