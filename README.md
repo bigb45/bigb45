@@ -6,7 +6,7 @@
 - 📫 Reach out to me @ Discord: wizardkestrel
 - ⚡ Fun fact: I like cold showers!
 _____
-### Follow me to see what I'm working on next! might start developing a Lunar Rover landing software 😉
+### Follow me to see what I'm working on next!
 [![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigb45&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 __________
