@@ -13,7 +13,6 @@ __________
 # Hobbies:
 - Reading 📚
 - Lifting 🏋️‍♂️
-- Self-discipline
 ___________
 <!--# Inspiration:
 - My mom 💖
