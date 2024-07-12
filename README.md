@@ -1,5 +1,5 @@
 # Hi there👋 I'm Mohammed!
-- 🔭 I’m currently working on changing the world
+- 🔭 I’m currently working an English learning application
 - 🌱 I’m currently learning & teaching Flutter
 - 👯 I’m looking to collaborate on a p2p decentralized communication app
 - 💬 Ask me about my love for change
@@ -22,4 +22,4 @@ ___________
 # My Mantra:
  I don't stop when I'm tired, I only stop when I'm done.
 
-
+## Just graduated 🥳🥳
