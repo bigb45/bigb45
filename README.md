@@ -14,11 +14,7 @@ __________
 - Reading 📚
 - Lifting 🏋️‍♂️
 ___________
-<!--# Inspiration:
-- My mom 💖
-- The desire to be Uncommon among the Uncommon.
-- Pay Day 💵
--->
+
 # My Mantra:
  I don't stop when I'm tired, I only stop when I'm done.
 
