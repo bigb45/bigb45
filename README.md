@@ -17,5 +17,3 @@ ___________
 
 # My Mantra:
  I don't stop when I'm tired, I only stop when I'm done.
-
-## Just graduated 🥳🥳
